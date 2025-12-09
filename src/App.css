@@ -184,9 +184,9 @@
 
 
 .nxxt-btn {
-  margin-top: 350px;
+  margin-top: 700px;
   position: absolute;
-  bottom: 50px;   /* distance from bottom */
+  bottom:500px;   /* distance from bottom */
   left: 45%;
   transform: translateX(-50%);
   margin: 0;    /* remove margin-top to avoid conflict */
